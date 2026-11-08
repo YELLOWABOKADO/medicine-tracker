@@ -1,0 +1,18 @@
+{
+  "name": "Мои лекарства — трекер",
+  "short_name": "Лекарства",
+  "description": "Ежедневный трекер приёма лекарств",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f1e5",
+  "theme_color": "#f5e9ba",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
